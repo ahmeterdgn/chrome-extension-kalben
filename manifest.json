@@ -1,0 +1,23 @@
+{
+  "name": "Kalben",
+  "description": "Karsu & Kalben Sonunda Canlı",
+  "manifest_version": 3,
+  "version": "1.0",
+  "action": {
+    "default_title": "Kalben",
+    "default_icon": "kalben.png",
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "128": "kalben.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+F"
+      },
+      "description": "kAlBeN"
+    }
+  }
+}
